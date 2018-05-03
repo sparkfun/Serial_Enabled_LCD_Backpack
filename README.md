@@ -3,7 +3,7 @@ Serial Enabled LCD Backpack
 
 [![Serial Enabled LCD Backpack](https://cdn.sparkfun.com/assets/parts/2/0/0/00258-01a.jpg)](https://cdn.sparkfun.com/assets/parts/2/0/0/00258-01a.jpg)
 
-*Serial Enabled LCD Backpack (LCD-00258)*](https://www.sparkfun.com/products/258)
+[*Serial Enabled LCD Backpack (LCD-00258)*](https://www.sparkfun.com/products/258)
 
 This backpack allows you to control a parallel based LCD over a single-wire serial interface. It is compatible with 16x2 LCDs and 20x4 LCDs.
 
