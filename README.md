@@ -10,7 +10,7 @@ This PIC-based serial enabled LCD backpack allows you to control a parallel base
 Repository Contents
 -------------------
 
-* **/Firmware** - Arduino example code and eny firmware that the part ships with for different size LCD screens.
+* **/Firmware** - Arduino example code and any firmware that the part ships with for different size LCD screens.
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
 
 Documentation
