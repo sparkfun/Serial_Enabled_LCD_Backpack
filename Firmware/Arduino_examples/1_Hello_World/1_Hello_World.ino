@@ -10,7 +10,7 @@
 #include <SoftwareSerial.h>
 
 // Attach the serial enabld LCD's RX line to digital pin 11
-SoftwareSerial LCD(10, 11); // Arduino SS_RX = pin 10 (unused), Arduino SS_TX = pin 11 
+SoftwareSerial LCD(10, 11); // Arduino SS_RX = pin 10 (unused), Arduino SS_TX = pin 11
 
 void setup()
 {
@@ -21,18 +21,24 @@ void setup()
 void loop()
 {
   // move cursor to beginning of first line
-  LCD.write(254); 
+  LCD.write(254);
   LCD.write(128);
 
   // clear display by sending spaces
-  LCD.write("                "); 
+  LCD.write("                ");
   LCD.write("                ");
 
- // move cursor to beginning of first line
-  LCD.write(254); 
+  // move cursor to beginning of first line
+  LCD.write(254);
   LCD.write(128);
 
   LCD.write("Hello, world!");
 
-  while(1); // wait forever
+  // move cursor to beginning of second line
+  LCD.write(254);
+  LCD.write(192);
+
+  LCD.write("Less is more!^_^");
+
+  while (1); // wait forever
 }
