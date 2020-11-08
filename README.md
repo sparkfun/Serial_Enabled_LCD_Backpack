@@ -17,7 +17,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Hookup Guide](https://www.sparkfun.com/tutorials/246)** - Basic hookup guide for the PIC-based serial enabled LCD backpack.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/pic-based-serial-enabled-character-lcd-hookup-guide)** - Basic hookup guide for the PIC-based serial enabled LCD backpack.
 
 Product Versions
 ----------------
